@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mehetaj Khandaker</h1>
 ### Hi there 👋, Mehetaj Khandaker
 ####  Full stack developer | MERN stack | Frontend developer | React.js Developer from Bangladesh
 ![ Full stack developer | MERN stack | Frontend developer | React.js Developer from Bangladesh](https://i.ibb.co/VqJ9v3S/mehetaj-githb-professional-github-fiverr-webdeveloper-full-stack-development-front-end-development-m.jpg)
@@ -8,6 +7,11 @@ I'm hard working dedicated person. in programming life, everyday i explore diffe
 Skills: JavaScript | React.js | Node.js | Next.js | MongoDB
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
